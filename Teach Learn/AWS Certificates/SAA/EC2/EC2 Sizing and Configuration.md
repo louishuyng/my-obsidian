@@ -1,0 +1,9 @@
+- Operating System (OS): Linux, Windows or MacOS
+- How much compute power & cores (CPU)
+- How much random-access memory (RAM)
+- How much storage space
+	- Network-attached (EBS &  EFS)
+	- Hardware (EC2 Instance Strore)
+ - Network card: speed of the card, Public IP address
+ - Firewall rules: security group
+ - Bootstrap script (configure at first lunch): EC2 User Data script

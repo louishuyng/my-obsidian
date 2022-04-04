@@ -1,0 +1,1 @@
+![ddia 0301](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491903063/files/assets/ddia_0301.png)
