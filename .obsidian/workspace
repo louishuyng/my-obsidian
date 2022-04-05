@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach Learn/Commands/Linux Commands/tr.md",
+            "file": "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Snapshots.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/Commands/Linux Commands/tr.md",
+                "file": "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Snapshots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Snapshots.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EC2 Instance Storage.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Screen Shot 2022-04-04 at 23.31.22.png",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS.md",
+    "Teach Learn/AWS Certificates/SAA/SAA.md",
     "Teach Learn/Commands/Linux Commands/tr.md",
     "Teach Learn/Commands/Linux Commands/cut.md",
     "Teach Learn/Commands/Linux Commands/awk.md",
     "Teach Learn/Commands/Linux Commands/Linux Commands.md",
-    "Teach Learn/Interesting Topics/Interesting Topics.md",
-    "Teach Learn/Interesting Topics/Make file.md",
-    "Teach Learn/AWS Certificates/SAA/IAM/IAM.md",
-    "Teach Learn/AWS Certificates/SAA/IAM/Policies.md",
-    "Teach Learn/AWS Certificates/SAA/EC2 SSA Level/EC2 SSA Level.md",
-    "Teach Learn/AWS Certificates/SAA/EC2 SSA Level/Advanced Concepts.md"
+    "Teach Learn/Interesting Topics/Interesting Topics.md"
   ]
 }

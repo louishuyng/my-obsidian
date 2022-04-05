@@ -1,0 +1,3 @@
+- Make a backup (snapshot) of your EBS volume at a point in time
+- Not necessary to detach volume to do snapshot, but recommended
+- Can copy snapshots across AZ or Region![[Screen Shot 2022-04-04 at 23.45.59.png]]
