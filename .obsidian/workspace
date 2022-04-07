@@ -7,23 +7,9 @@
         "id": "485f30ff75ab5e03",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Snapshots.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cdb3fb12cc5b624e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/EC2/EC2 Instance Launch Types.md",
-            "mode": "preview",
-            "source": false
+            "file": "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Screen Shot 2022-04-04 at 23.45.59.png"
           }
         }
       }
@@ -81,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Snapshots.md",
+                "file": "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Screen Shot 2022-04-04 at 23.45.59.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +86,15 @@
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
-    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Snapshots.md",
-    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EC2 Instance Storage.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Screen Shot 2022-04-04 at 23.45.59.png",
     "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Screen Shot 2022-04-04 at 23.31.22.png",
-    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EC2 Instance Store.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Volume Types.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EC2 Instance Storage.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/AMI.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/EBS Overview.md",
     "Teach Learn/AWS Certificates/SAA/SAA.md",
-    "Teach Learn/Commands/Linux Commands/tr.md",
-    "Teach Learn/Commands/Linux Commands/cut.md",
-    "Teach Learn/Commands/Linux Commands/awk.md",
-    "Teach Learn/Commands/Linux Commands/Linux Commands.md",
-    "Teach Learn/Interesting Topics/Interesting Topics.md"
+    "Teach Learn/AWS Certificates/SAA/Overview AWS.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Untitled.md"
   ]
 }

@@ -1,2 +1,5 @@
 [[EBS]]
 [[EBS Snapshots]]
+[[AMI]]
+[[EC2 Instance Store]]
+[[EBS Volume Types]]
