@@ -1,0 +1,5 @@
+- Scalability means that an application / system can handle greater loads by adpating
+- There are two kinds of scalability
+	- Vertical 
+	- Horizontal (= elasticity)
+- Scalability is linked but different to High Availability
