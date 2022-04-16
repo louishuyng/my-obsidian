@@ -9,3 +9,5 @@
 - The goal is to survie a data center loss
 
 [[Load Balancer]]
+[[Sticky Sessions]]
+[[Cross Zone Load Balancing]]
