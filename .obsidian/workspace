@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/ELB & ASG/Cross Zone Load Balancing.md",
+            "file": "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS + Aurora + ElastiCache.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/AWS Certificates/SAA/ELB & ASG/Cross Zone Load Balancing.md",
+                "file": "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS + Aurora + ElastiCache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 100
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Cross Zone Load Balancing.md",
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/ELB & ASG.md",
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Sticky Sessions.md",
+    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS + Aurora + ElastiCache.md",
+    "Teach Learn/AWS Certificates/SAA/SAA.md",
+    "Teach Learn/AWS Certificates/SAA/Overview AWS.md",
+    "Teach Learn/AWS Certificates/SAA/ELB & ASG/ASG Scaling Policies.md",
+    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Classic Load Balancer (CLB).md",
+    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Network Load Balancer (NLB).md",
     "Teach Learn/AWS Certificates/SAA/ELB & ASG/Gateway Load Balancer (GLB).md",
     "Teach Learn/AWS Certificates/SAA/ELB & ASG/Load Balancer.md",
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Network Load Balancer (NLB).md",
     "Teach Learn/AWS Certificates/SAA/ELB & ASG/Application Load Balancer (ALB).md",
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Classic Load Balancer (CLB).md",
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Untitled.md",
-    "Teach Learn/AWS Certificates/SAA/EC2 Instance Storage/Screen Shot 2022-04-04 at 23.45.59.png"
+    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Overview ASG.md"
   ]
 }
