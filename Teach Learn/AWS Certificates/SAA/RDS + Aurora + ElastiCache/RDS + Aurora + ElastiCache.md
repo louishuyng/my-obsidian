@@ -1,8 +1,3 @@
-- RDS stands for Relational Database Service
-- It's a managed DB service for DB use SQL as a query language
-- It allows you to create databases in the cloud that are manage by AWS
-	- Postgres
-	- MySQL
-	- MariaDB
-	- Oracle
-	- Microsoft SQL Server
+ [[Overview]]
+ [[RDS Read Replicas vs Multi AZ]]
+ [[RDS Encryption + Security]]
