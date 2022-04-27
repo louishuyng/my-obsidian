@@ -4,3 +4,4 @@
  [[Amazon Aurora]]
  [[Advance Concept Aurora]]
  [[ElastiCache]]
+ [[ElastiCache for Solution Architects]]
