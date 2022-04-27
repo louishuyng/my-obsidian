@@ -26,3 +26,13 @@
 	- Up to 16 Read Replicas per secondary region
 	- Helps for decreasing latency
 	- Promoting another region (for disaster recovery) has an RTO (Recovery time objective) of < 1 minute
+
+### Machine Learning
+- Enables you to add ML-based predictions to your applications via SQL
+- Simple, optimized, and secure integration between Aurora and AWS ML services
+- Supported services
+	- Amazon SageMaker (use with any ML model)
+	- Amazon Comprehend (for sentiment analysis)
+- You don't need to have ML exprience
+- Use cases: fraud detection, ads targeting, sentiment analysis, product recommendations
+-  ![[Screen Shot 2022-04-26 at 23.43.00.png]]
