@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS Encryption + Security.md",
+            "file": "Teach Learn/AWS Certificates/SAA/Route 53/Amazon Route 53.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS Encryption + Security.md",
+                "file": "Teach Learn/AWS Certificates/SAA/Route 53/Amazon Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS Encryption + Security.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS + Aurora + ElastiCache.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/assets/ElastiCache for Solution Architects.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/Advance Concept Aurora.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/ElastiCache.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/assets/Screen Shot 2022-04-26 at 23.43.00.png",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/Amazon Aurora.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/assets/Screen Shot 2022-04-26 at 10.21.52.png",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS Read Replicas vs Multi AZ.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/assets/Screen Shot 2022-04-26 at 10.20.09.png"
+    "Teach Learn/AWS Certificates/SAA/Route 53/Amazon Route 53.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Route 53.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/What is a DNS.md",
+    "Screen Shot 2022-04-28 at 10.51.01.png.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/assets/Screen Shot 2022-04-28 at 10.51.01.png",
+    "Teach Learn/AWS Certificates/SAA/Route 53/assets/Screen Shot 2022-04-28 at 10.47.09.png",
+    "Teach Learn/AWS Certificates/SAA/SAA.md",
+    "Teach Learn/AWS Certificates/SAA/Overview AWS.md",
+    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/ElastiCache for Solution Architects.md",
+    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS + Aurora + ElastiCache.md"
   ]
 }
