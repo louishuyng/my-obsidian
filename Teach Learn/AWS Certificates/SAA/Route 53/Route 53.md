@@ -1,2 +1,4 @@
 [[What is a DNS]]
 [[Amazon Route 53]]
+[[Records TTL]]
+[[CNAME vs Alias]]
