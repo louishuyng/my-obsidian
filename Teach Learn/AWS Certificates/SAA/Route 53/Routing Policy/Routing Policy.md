@@ -1,7 +1,12 @@
-[[Simple]]
-[[Weighted]]
-[[Latency]]
-[[Failover]]
-[[Geolocation]]
-[[Geoproximity]]
-[[Multi Value]]
+- Define how Route 53 responds to DNS queries
+- Don't get confused by the word "Routing"
+	- It's not the same as Load Balancer routing which routes the traffic
+	- DNS does not route any traffic, it only responds to the DNS queries
+- Routes 52 Supports the following Routing Policies
+	- [[Simple]]
+	- [[Weighted]]
+	- [[Latency]]
+	- [[Failover]]
+	- [[Geolocation]]
+	- [[Geoproximity]]
+	- [[Multi Value]]

@@ -1,0 +1,10 @@
+- Control the % of the requests that go to each specific resource
+- Assign each record a relative weight:
+	- trafifc (%) = Weight for a specific record / Sum of all the weights for all records
+- Weights don't need to sum up to 100
+- DNS records must have the same name and type
+- Can be associated with Health Checks
+- Use cases: load balancing between regions, testing new application versions ... 
+- Assign a weight of 0 to a record to stop sending traffic to a resource
+- If all records have weight of 0, then all records will be returned equally
+- ![[Screen Shot 2022-05-01 at 17.12.13.png]]

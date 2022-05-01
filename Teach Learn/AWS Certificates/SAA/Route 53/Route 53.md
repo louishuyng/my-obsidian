@@ -3,3 +3,4 @@
 [[Records TTL]]
 [[CNAME vs Alias]]
 [[Routing Policy]]
+[[Health Checks]]
