@@ -2,3 +2,4 @@
 [[Amazon Route 53]]
 [[Records TTL]]
 [[CNAME vs Alias]]
+[[Routing Policy]]

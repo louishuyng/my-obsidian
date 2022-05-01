@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/Route 53/CNAME vs Alias.md",
+            "file": "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Routing Policy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/AWS Certificates/SAA/Route 53/CNAME vs Alias.md",
+                "file": "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Routing Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
-    "Teach Learn/AWS Certificates/SAA/Route 53/CNAME vs Alias.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Routing Policy.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Failover.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Multi Value.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geoproximity.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geolocation.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Latency.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Weighted.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Simple.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Route 53.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/What is a DNS.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Records TTL.md",
-    "Teach Learn/AWS Certificates/SAA/ELB & ASG/Overview ASG.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS Encryption + Security.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/RDS + Aurora + ElastiCache.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/assets/ElastiCache for Solution Architects.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/Advance Concept Aurora.md",
-    "Teach Learn/AWS Certificates/SAA/RDS + Aurora + ElastiCache/ElastiCache.md"
+    "Teach Learn/AWS Certificates/SAA/Route 53/Amazon Route 53.md"
   ]
 }

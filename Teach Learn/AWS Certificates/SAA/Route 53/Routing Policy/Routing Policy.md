@@ -1,0 +1,7 @@
+[[Simple]]
+[[Weighted]]
+[[Latency]]
+[[Failover]]
+[[Geolocation]]
+[[Geoproximity]]
+[[Multi Value]]
