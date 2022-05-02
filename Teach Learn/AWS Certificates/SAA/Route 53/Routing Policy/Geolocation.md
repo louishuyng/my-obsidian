@@ -1,0 +1,7 @@
+- Different from Latency-based!
+- This routing is based on user location
+- Specify location by Continent, Country or by US State (if there's overlapping, most precise location selected)
+- Should create a **"Default"** record (in case there's no match on location)
+- Use cases: website localization, restrict content distribution, load balancing, ...
+- Can be associated with Health Checks
+-  ![[Screen Shot 2022-05-01 at 23.17.15.png]]

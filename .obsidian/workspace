@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/Route 53/Health Checks.md",
+            "file": "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geoproximity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/AWS Certificates/SAA/Route 53/Health Checks.md",
+                "file": "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geoproximity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geoproximity.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geolocation.md",
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Failover.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Health Checks.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Route 53.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Latency.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Weighted.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Simple.md",
     "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Routing Policy.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Failover.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Multi Value.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geoproximity.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geolocation.md"
+    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Multi Value.md"
   ]
 }
