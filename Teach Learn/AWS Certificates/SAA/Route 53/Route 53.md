@@ -4,3 +4,4 @@
 [[CNAME vs Alias]]
 [[Routing Policy]]
 [[Health Checks]]
+[[Domain Registar vs DNS service]]

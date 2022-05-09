@@ -1,0 +1,6 @@
+- MyClothers.com allows people to buy clothes online
+- There's a shopping cart
+- Our website is having hundreds of users at the time
+- We need to scale, maintain horizontal scalability and keep our web application as stateless as possible
+- Users should not lose their shopping cart
+- Users should have their details (address, etc) in a database
