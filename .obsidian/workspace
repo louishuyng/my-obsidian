@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateful Web App MyClothes.md",
+            "file": "Teach Learn/AWS Certificates/SAA/Amazon S3/Buckets and Objects.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateful Web App MyClothes.md",
+                "file": "Teach Learn/AWS Certificates/SAA/Amazon S3/Buckets and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "485f30ff75ab5e03",
   "lastOpenFiles": [
-    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateful Web App MyClothes.md",
-    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Solution Architecture Discussions.md",
-    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateless Web App  WhatIsTheTime.md",
+    "Teach Learn/AWS Certificates/SAA/Amazon S3/Buckets and Objects.md",
+    "Teach Learn/AWS Certificates/SAA/Amazon S3/Amazon S3.md",
     "Teach Learn/AWS Certificates/SAA/SAA.md",
     "Teach Learn/AWS Certificates/SAA/Overview AWS.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Domain Registar vs DNS service.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Route 53.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Multi Value.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Routing Policy/Geoproximity.md",
-    "Teach Learn/AWS Certificates/SAA/Route 53/Amazon Route 53.md"
+    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Beanstalk Overview.md",
+    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Solution Architecture Discussions.md",
+    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Instantiating Applications quickly.md",
+    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateful Web App MyWordPress.md",
+    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateful Web App MyClothes.md",
+    "Teach Learn/AWS Certificates/SAA/Solution Architecture Discussions/Stateless Web App  WhatIsTheTime.md"
   ]
 }

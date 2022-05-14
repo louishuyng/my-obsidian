@@ -1,0 +1,23 @@
+- Amazon S3 allow people to store objects (files) in "buckets" (directories)
+- Buckets must have globally unique name
+- Buckets are defined at the region level
+- Naming convention
+	- No uppercase
+	- No underscore
+	- 3-63 characters long
+	- No an IP
+	- Must start with lowercase letter or number 
+### Ojects
+- Objects (files) have a Key
+- The **key** is the FULL path:
+	- s3://my-bucket/**my_file**.txt -> key: **my_file.txt**
+	- s3://my-bucket/**my_folder/another_folder/my_file.txt** -> key: **my_folder/another_folder/my_file.txt**
+- The key is composed of **prefix** + **object name**
+- There's no concept of  "directories" within buckets (although the UI will trick you to think otherwise)
+- Just keys with very long names that contain slashes ("/")
+- Object values are the content of the body
+	- Max Object Size is 5TB (5000GB)
+	- If uploading more than 5GB, must use "multi-part upload"
+- Metadata (list of text key / value pairs - system or user metadata)
+- Tags (Unicode key / value pair - up to 10) - useful for security / lifecycle
+- Version ID (if versioning is enabled)

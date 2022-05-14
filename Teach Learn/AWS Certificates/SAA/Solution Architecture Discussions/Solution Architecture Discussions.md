@@ -1,2 +1,5 @@
 [[Stateless Web App  WhatIsTheTime]]
 [[Stateful Web App MyClothes]]
+[[Stateful Web App MyWordPress]]
+[[Instantiating Applications quickly]]
+[[Beanstalk Overview]]
