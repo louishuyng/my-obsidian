@@ -1,0 +1,3 @@
+- S3 can host static websites and have theme accessible on the www
+- The website URL will be:
+	- 
