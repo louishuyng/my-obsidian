@@ -1,1 +1,0 @@
-BRD in here: https://oivan.atlassian.net/browse/RUE-1
