@@ -5,3 +5,6 @@
 [[S3 pre-signed URLs]]
 [[S3 Storage Classes]]
 [[S3 Lifecycle Rules]]
+[[S3 Analytics]]
+[[S3 Performance]]
+[[S3 Select & Glacier Select]]

@@ -1,0 +1,5 @@
+- You can setup S3 Analytics to help determine when to transistion objects from Standard to Standard_IA
+- Does not work for ONEZONE_IA or GLACIER
+- Report is updated daily
+- Takes about 24h to 48h hours to first start
+- Good first step to put together Lifecycle Rules (or improve them) !

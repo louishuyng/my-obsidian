@@ -7,8 +7,12 @@
         "id": "12a717846ac00c77",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/Advanced Amazon S3 & Athena.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/Advanced Amazon S3 & Athena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "12a717846ac00c77",
   "lastOpenFiles": [
+    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/Advanced Amazon S3 & Athena.md",
+    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Performance.md",
+    "Teach Learn/AWS Certificates/SAA/Amazon S3/Amazon S3.md",
+    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Analytics.md",
+    "Teach Learn/AWS Certificates/SAA/Amazon S3/Versioning.md",
+    "Teach Learn/AWS Certificates/SAA/Amazon S3/Encryption.md",
+    "Teach Learn/AWS Certificates/SAA/Amazon S3/S3 Websites.md",
     "Day Planners/Day Planner-20220529.md",
     "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Lifecycle Rules.md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/Advanced Amazon S3 & Athena.md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Storage Classes.md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Replication (CRR & SRR).md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 pre-signed URLs.md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Access Logs.md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Default Encryption.md",
-    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 MFA-Delete.md",
-    "Teach Learn/AWS Certificates/SAA/Amazon S3/Security & Bucket Policies.md"
+    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Storage Classes.md"
   ]
 }
