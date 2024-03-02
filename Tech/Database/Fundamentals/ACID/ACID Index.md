@@ -1,0 +1,3 @@
+[[Isolation]]
+[[Consistency]]
+[[Durability]]

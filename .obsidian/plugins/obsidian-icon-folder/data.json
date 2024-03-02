@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiTestTubeFill",
+      "SiConsul",
+      "SiMongodb",
+      "SiTerraform",
+      "IbDatabse"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Tech/Database/Hadoop": "SiApachehadoop",
+  "Tech/Database/Postgres": "SiPostgresql",
+  "Tech/DevOps/AWS": "FabAws",
+  "Tech/DevOps/Docker": "SiDocker",
+  "Tech/Backend/Golang": "SiGoland",
+  "Tech/Backend/Nodejs": "FabNodeJs",
+  "Tech/Backend/ROR": "SiRubygems",
+  "Tech/Backend/Rust": "SiRust",
+  "Tech/DevOps/Techinque": "IbRectangleOnRectangleHorizontal",
+  "Tech/Linux/Vim": "SiVim",
+  "Tech/DevOps/Network": "LiNetwork",
+  "Tech/Backend/Serverless": "SiServerless",
+  "Tech/DevOps/Security": "RiSecurePaymentFill",
+  "Tech/Frontend/App": "FabAppStore",
+  "Tech/Frontend/Web": "IbInternetBrowser",
+  "Tech/Frontend/Web/Tailwind": "SiTailwindcss",
+  "Tech/DevOps/K8s": "SiKubernetes",
+  "Tech/Backend/Kafka": "SiApachekafka",
+  "Tech/CS/Algorithm": "IbRectangleSmallWithBlocks",
+  "Tech/CS/Diagrams": "SiDiagramsdotnet",
+  "Tech/CS/Typescript": "SiTypescript",
+  "Tech/Database/Fundamentals": "IbDatabse",
+  "Tech/DevOps/Terraform": "SiTerraform",
+  "Tech/Database/MongoDB": "SiMongodb",
+  "Tech/DevOps/Consul": "SiConsul",
+  "Tech/Backend/Technique/Testing.md": "RiTestTubeFill"
+}

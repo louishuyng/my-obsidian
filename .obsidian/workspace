@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ad900d831ba895e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "12a717846ac00c77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Lifecycle Rules.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4249ab45d4e28b16",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c10906a0606199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b4a66315f35a38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c584e83e071fcee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sett",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6b3a3cdb32e108a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d691efe1a8f780b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edd36bb65e99770c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Lifecycle Rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "active": "12a717846ac00c77",
+  "lastOpenFiles": [
+    "Teach Learn/AWS Certificates/SAA/Advanced Amazon S3 & Athena/S3 Default Encryption.md",
+    "Teach Learn/Commands/Rails/Byebug.md",
+    "Teach Learn/Commands/Untitled.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 SSA Level/EC2 Hibernate.md",
+    "Teach Learn/AWS Certificates/SAA/EC2 SSA Level/Advanced Concepts.md",
+    "Teach Learn/AWS Certificates/SAA/IAM/Policies.md",
+    "Teach Learn/AWS Certificates/SAA/IAM/IAM.md",
+    "Teach Learn/AWS Certificates/SAA/Overview AWS.md",
+    "Teach Learn/AWS Certificates/SAA/SAA.md",
+    "Day Planners/Day Planner-20220529.md"
+  ]
+}

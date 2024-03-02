@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ad900d831ba895e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7adbec338d854a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e68fcbd2a0df6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Software Architect/Software Architect Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23b3a3b3faef9fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management/Daily Email Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4249ab45d4e28b16",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c10906a0606199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b4a66315f35a38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c584e83e071fcee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12019e6b745636a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "25415a0b40df961c",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5024719238281
+  },
+  "right": {
+    "id": "f6b3a3cdb32e108a",
+    "type": "split",
+    "children": [
+      {
+        "id": "613513287ea3995c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176867337070dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Management/Daily Email Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3e08f5efc51d9e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f187aa38a2d07759",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "15399b65ff437aa6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "canvas:Create new canvas": true,
+      "markdown-importer:Open format converter": true
+    }
+  },
+  "active": "23b3a3b3faef9fa6",
+  "lastOpenFiles": [
+    "Management/Delegate Task.md",
+    "Management/Scrum/Scaling Scrum.md",
+    "Management/Daily Email Structure.md",
+    "README.md",
+    "Life/Game Theory.md",
+    "Life/Focus Enhancement.md",
+    "Tech/Software Architect/Software Architect Index.md",
+    "Tech/Database/Optimize SQL.md",
+    "Tech/Database/LSM and SSTable.md",
+    "Tech/Database/Foreign Key Lock.md",
+    "Tech/Database/Database Index.md",
+    "Tech/Software Architect/Micorservice/IPC.md",
+    "Tech/Software Architect/Micorservice/Microservice Index.md",
+    "Tech/Software Architect/Micorservice/Aggregate For Business Logic.md",
+    "Tech/Software Architect/Micorservice/Decompose.md",
+    "Tech/Software Architect/Micorservice/Event Sourcing.md",
+    "Tech/Software Architect/Micorservice/Two-Phase Commit (2PC).md",
+    "Tech/Software Architect/Micorservice/Transactions with Saga.md",
+    "Tech/Software Architect/Micorservice/Testing in Microservice.md",
+    "Tech/Software Architect/Micorservice/Observable Services Patterns.md",
+    "Tech/Software Architect/DDD/Simplified Diagram.md",
+    "Tech/Software Architect/DDD/DDD Index.md",
+    "Tech/Software Architect/Design Software Architect/Design Thinking Fundamentals.md",
+    "Tech/Software Architect/Design Software Architect/Design Software Architect Index.md",
+    "Tech/Linux/Modern Tools.md",
+    "Tech/Linux/Linux Index.md",
+    "Tech/Learning Path/2024",
+    "Tech/Learning Path",
+    "Tech/Software Architect/AWS",
+    "Tech/Software Architect/Fundamentals",
+    "assets/Pasted image 20240124214149.png",
+    "dailies/Untitled",
+    "dailies",
+    "my-templates",
+    "notes/dailies",
+    "personal/my-templates",
+    "Tech/Software Architect/Design Software Architect",
+    "assets/Pasted image 20231221000421.png",
+    "assets/Pasted image 20231220235458.png",
+    "assets/Pasted image 20231220235425.png",
+    "assets/Pasted image 20231220194050.png",
+    "assets/Pasted image 20231203211405.png",
+    "assets/Pasted image 20231203203422.png",
+    "assets/Pasted image 20231126120137.png",
+    "assets/Pasted image 20231126115946.png",
+    "assets/Pasted image 20231126115903.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

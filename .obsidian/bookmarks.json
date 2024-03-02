@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1694625308034,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1694625318819,
+          "path": "Projects/Hodfords/Lawbite",
+          "title": "Lawbite"
+        },
+        {
+          "type": "file",
+          "ctime": 1696642903032,
+          "path": "Projects/Hodfords/Lawbite/Testing/Test Calendar.md",
+          "title": "Calendar Testing"
+        }
+      ],
+      "title": "Hodfords"
+    }
+  ]
+}

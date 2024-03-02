@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#DevOps",
+      "color": {
+        "a": 1,
+        "rgb": 9702128
+      }
+    },
+    {
+      "query": "tag:#Backend",
+      "color": {
+        "a": 1,
+        "rgb": 15990599
+      }
+    },
+    {
+      "query": "tag:#Database",
+      "color": {
+        "a": 1,
+        "rgb": 5652030
+      }
+    },
+    {
+      "query": "tag:#Linux",
+      "color": {
+        "a": 1,
+        "rgb": 4521728
+      }
+    },
+    {
+      "query": "tag:#Frontend",
+      "color": {
+        "a": 1,
+        "rgb": 16265264
+      }
+    },
+    {
+      "query": "tag:#Architect",
+      "color": {
+        "a": 1,
+        "rgb": 8453631
+      }
+    },
+    {
+      "query": "tag:#Algorithm",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9194075515668912,
+  "close": false
+}

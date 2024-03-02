@@ -1,0 +1,7 @@
+[[Decompose]]
+[[IPC]]
+[[Two-Phase Commit (2PC)]]
+[[Transactions with Saga]]
+[[Aggregate For Business Logic]]
+[[Testing in Microservice]]
+[[Observable Services Patterns]]

@@ -1,0 +1,3 @@
+A function with implicit inputs and outputs is like a component hardwired to other components. It’s not modular. It can’t be used in another place. And its behavior depends on the behavior of the parts it’s connected to. By converting implicit inputs and outputs to explicit ones, we are making the component modular. Instead of solder, it’s got a connector that’s easy to detach.
+
+![Image](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781617296208/files/OEBPS/Images/f0091-01.jpg)
